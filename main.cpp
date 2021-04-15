@@ -11,7 +11,7 @@
 
 //Listener I want to list
 
-//Observerable
+//Observable
 void notifyObservers(); // Once a threshold is reached, notify all observers
 void regListener(const std::shared_ptr<IObserver>& observer);
 void unRegListener(const std::shared_ptr<IObserver>& observer);
