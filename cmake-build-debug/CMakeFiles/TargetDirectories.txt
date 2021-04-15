@@ -1,0 +1,3 @@
+/Users/jamess./CLionProjects/Observer Pattern/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jamess./CLionProjects/Observer Pattern/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jamess./CLionProjects/Observer Pattern/cmake-build-debug/CMakeFiles/Observer_Pattern.dir

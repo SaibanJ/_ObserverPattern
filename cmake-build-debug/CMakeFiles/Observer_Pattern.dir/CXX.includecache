@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jamess./CLionProjects/Observer Pattern/functions_.h
+observers_.h
+/Users/jamess./CLionProjects/Observer Pattern/observers_.h
+
+/Users/jamess./CLionProjects/Observer Pattern/interface_.h
+
+/Users/jamess./CLionProjects/Observer Pattern/main.cpp
+functions_.h
+/Users/jamess./CLionProjects/Observer Pattern/functions_.h
+
+/Users/jamess./CLionProjects/Observer Pattern/observers_.h
+iostream
+-
+memory
+-
+list
+-
+interface_.h
+/Users/jamess./CLionProjects/Observer Pattern/interface_.h
+
