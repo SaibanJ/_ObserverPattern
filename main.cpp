@@ -11,16 +11,6 @@
 
 //Listener I want to list
 
-//Observable
-void notifyObservers(); // Once a threshold is reached, notify all observers
-void regListener(const std::shared_ptr<IObserver>& observer);
-void unRegListener(const std::shared_ptr<IObserver>& observer);
-void batteryLevel(int val);
-//Display
-void update(const std::string &message);
-//Audio
-void update(const std::string &message);
-
 int main()
 {
     std::unique_ptr<Observable> observable = std::make_unique<Observable>();
