@@ -2,7 +2,7 @@
 This is an example of the observer design pattern in c++
 
  An implementation of the observer pattern. This pattern is about 
- changes in state. think about a battery that incrementally decreases over time
+ changes in state. Think about a battery that incrementally decreases over time
  or a weather application that needs to update its status report periodically.
  The observer pattern is a one to many relational pattern.
 
